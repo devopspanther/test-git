@@ -1,1 +1,1 @@
-azure is the best
+aws is the best
